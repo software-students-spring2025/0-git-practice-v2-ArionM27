@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article Summary
+
+Article Link: 	[How Engineering Teams Can Thrive in 2025](https://stackoverflow.blog/2025/01/28/how-engineering-teams-can-thrive-in-2025/)
+
+## Thoughts:
+
+I found this article very interesting due to its focus on one of software engineerings most important aspects, which is engineering as a team. It seems that with the current crop of tools, working with a team has never been easier. More specifically, with AI Intelligence improving, AI assistants can support the full product development lifecycle, from requirements analysis to deployment and maintenance. Considering how much of a fundamental skill this is for any software engineer, I am personally skeptical just how helpful these "AI Assistants" can truly be. A lot of working together as a team requires consistent communication, and I personally disagree with this point as an "AI Assistant" contradicts it. On the other hand, for many companies/teams, something that I do believe has been beneficial to many, is Advanced APIs and cloud-native architecture. As discussed in class, the CI/CD Workflow has only become more and more popular, with Cloud-based tools preventing slow rollouts due to disconnected systems. Many have been able to make the switch, making CI/CD and containerization a regular part of any engineering workflow. To say the least, the resources at hand are only getting better, and it is on us to ensure we can keep up with them. 
